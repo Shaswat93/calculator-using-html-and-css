@@ -1,0 +1,33 @@
+body {
+    background-color: #fa4848;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.btn-cal {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 2;
+    /* font-size: 25px; */
+}
+
+.textview {
+    margin: 2px;
+    padding: 8px;
+    border-radius: 10px;
+    /* font-size: 18px; */
+}
+
+.wrap {
+    width: 260px;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    background: rgb(74, 121, 165);
+    border-radius: 10px;
+    box-shadow: 0 2px 5px grey;
+}
